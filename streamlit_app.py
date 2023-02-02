@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.wtite('hello world')
+st.title('Diamond Price Predictor')
